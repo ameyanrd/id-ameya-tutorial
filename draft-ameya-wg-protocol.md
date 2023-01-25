@@ -3,7 +3,7 @@ title: "Protocol"
 abbrev: "proto"
 category: info
 
-docname: draft-ameya-wg-protocol
+docname: draft-ameya-wg-protocol-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number: 00
 date: 26 January 2023
